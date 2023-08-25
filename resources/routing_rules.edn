@@ -1,0 +1,4 @@
+[{:rule-check "edn-with-fun.logic.rule-checks/is-testing"
+ :topic-destination "testing_topic"}
+ {:rule-check "edn-with-fun.logic.rule-checks/is-analytics"
+  :topic-destination "analytics_topic"}]
